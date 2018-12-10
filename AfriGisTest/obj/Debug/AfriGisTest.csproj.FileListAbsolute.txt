@@ -1,0 +1,12 @@
+C:\Users\ludwigba\Documents\Visual Studio 2017\Projects\AfriGisTest\AfriGisTest\obj\Debug\AfriGisTest.csprojAssemblyReference.cache
+C:\Users\ludwigba\Documents\Visual Studio 2017\Projects\AfriGisTest\AfriGisTest\obj\Debug\AfriGisTest.csproj.CoreCompileInputs.cache
+C:\Users\ludwigba\Documents\Visual Studio 2017\Projects\AfriGisTest\AfriGisTest\bin\Debug\AfriGisTest.exe.config
+C:\Users\ludwigba\Documents\Visual Studio 2017\Projects\AfriGisTest\AfriGisTest\bin\Debug\AfriGisTest.exe
+C:\Users\ludwigba\Documents\Visual Studio 2017\Projects\AfriGisTest\AfriGisTest\bin\Debug\AfriGisTest.pdb
+C:\Users\ludwigba\Documents\Visual Studio 2017\Projects\AfriGisTest\AfriGisTest\bin\Debug\AfriGIS.Services.dll
+C:\Users\ludwigba\Documents\Visual Studio 2017\Projects\AfriGisTest\AfriGisTest\bin\Debug\AfriGIS.Services.ReverseGeocode.dll
+C:\Users\ludwigba\Documents\Visual Studio 2017\Projects\AfriGisTest\AfriGisTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ludwigba\Documents\Visual Studio 2017\Projects\AfriGisTest\AfriGisTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ludwigba\Documents\Visual Studio 2017\Projects\AfriGisTest\AfriGisTest\obj\Debug\AfriGisTest.csproj.CopyComplete
+C:\Users\ludwigba\Documents\Visual Studio 2017\Projects\AfriGisTest\AfriGisTest\obj\Debug\AfriGisTest.exe
+C:\Users\ludwigba\Documents\Visual Studio 2017\Projects\AfriGisTest\AfriGisTest\obj\Debug\AfriGisTest.pdb
